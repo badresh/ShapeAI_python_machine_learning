@@ -1,2 +1,1 @@
-# ShapeAI_python_machine_learning
-Devtown project submission - Machine learning bootcamp
+The google Doc link is not in the discription of any video .
